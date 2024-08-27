@@ -1,0 +1,16 @@
+Framework, Selenium, Java Revision
+Manual Testing
+2New Programming
+Revise the Pogramming
+Self intro prepararing
+Broken links ,
+css selector
+xpath new one 
+-----------------------------------
+Testng-assert
+wait
+within 12 revise java and selenium
+
+
+
+
